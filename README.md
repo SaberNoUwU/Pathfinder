@@ -13,12 +13,12 @@ This project uses few algorithms including Visibility Graph and Djikstra to find
 To start the project, follow these steps: 
 
 1) **Download to your Python library necessary modules**: 
-'pip install -r requirements.txt' 
+`pip install -r requirements.txt'` 
 
 **NOTES**: For Debian/Ubuntu users, I recommend install those modules to your virtual environment (venv) 
 
 2) **Start the project** 
-'python3 MazeFinder.py' 
+`python3 MazeFinder.py` 
 
 
 To use the project, follow these steps: 
