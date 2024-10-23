@@ -19,7 +19,8 @@ To start the project, follow these steps:
 **NOTES**: For Debian/Ubuntu users, I recommend install those modules to your virtual environment (venv)
 
 
-2) **Start the project** 
+2) **Start the project**
+
 `python3 MazeFinder.py` 
 
 
