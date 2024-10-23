@@ -24,6 +24,7 @@ To start the project, follow these steps:
 `python3 MazeFinder.py` 
 
 
+
 To use the project, follow these steps: 
 
 1) Generate a map by sliding _Repeat Time_ slider\
